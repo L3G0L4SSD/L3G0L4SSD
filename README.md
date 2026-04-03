@@ -13,6 +13,7 @@ Currently focused on SaaS architectures and full-stack development.
 ## ⚙️ Tech Stack
 - 💻 Python / Django / DRF
 - ☕ Java (Spring Boot)
+- 💻 Php (Laravel)
 - ⚛️ React (learning)
 - 🗄️ PostgreSQL / MySQL
 
