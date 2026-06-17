@@ -1,6 +1,6 @@
 # Hi, I'm Sinan Demir 👋
 
-🚀 Backend Developer | Django & REST APIs | E-commerce Systems
+🚀 Backend Developer | PHP(Laravel) & Django & REST APIs | E-commerce Systems
 
 ---
 
